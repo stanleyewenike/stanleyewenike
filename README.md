@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on data science projects
 - 💬 Find out more about me on 👉 [My LinkedIn Profile](https://www.linkedin.com/in/stanley-e-a0542b40/)
 - 📫 How to reach me? Connect on LinkedIn👆 and drop me a line ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can cook a complete meal without setting the house on fire🤣😂
 <!--
 **stanleyewenike/stanleyewenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
