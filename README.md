@@ -1,4 +1,4 @@
-![MasterHead](https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/Capture/process.png)
+![MasterHead](https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif)
 <h1 align="center">Hi 👋, I'm Stan!</h1>
 <h3 align="center">Data Analytics | Data Science | Data Quality | Cloud | Research | -> Super excited about all things data!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
