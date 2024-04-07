@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1718236800&v=beta&t=cVFASM7spHtRD0l-UxqdvIoOr7L6K-ro4zkJAT5gfrQ)
+![MasterHead](https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/Capture/process.png)
 <h1 align="center">Hi 👋, I'm Stan!</h1>
 <h3 align="center">Data Analytics | Data Science | Data Quality | Cloud | Research | -> Super excited about all things data!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
