@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Science, AI, Cloud Services and Blockchain**
 
-- 👯 I’m looking to collaborate on [Opensource and Blockchain projects](Coming soon!)
+- 👯 I’m looking to collaborate on [Opensource Analytics and Blockchain projects]
 
-- 👨‍💻 All of my projects are available at [Coming soon!](Coming soon!)
+<!--- - 👨‍💻 All of my projects are available at (Coming soon!) --->
 
-- 📝 I regularly write articles on [Coming soon!](Coming soon!)
+<!--- - 📝 I regularly write articles on (Coming soon!) --->
 
 - 💬 Ask me about **Data Analytics**
 
