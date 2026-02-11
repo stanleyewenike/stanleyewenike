@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on some GenAI projects in Adult care, Agent-based workflow optimization
 
-- 🌱 I’m currently learning **Data Science, AI, Cloud-native Data Engineering(Snowflake)**
+- 🌱 I’m currently learning **Data Science, AI, Cloud-native Data Engineering (Snowflake)**
 
 - 👯 I’m looking to collaborate on Data Analytics, Data Science, AI and Cloud projects
 
@@ -15,11 +15,11 @@
 
 <!--- - 📝 I regularly write articles on (Coming soon!) --->
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Data Analytics**
 
-- 📫 How to reach me **stanleyewenike@icloud.com**
+- 📫 Want to reach me? drop me an email - **stanleyewenike@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/stanley-e-a0542b40/](https://www.linkedin.com/in/stanley-ewenike-ph-d-a0542b40/)
+- 📄 Want to know more about my experiences? Check out my [**LinkedIn Profile**](https://www.linkedin.com/in/stanley-ewenike-ph-d-a0542b40/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
