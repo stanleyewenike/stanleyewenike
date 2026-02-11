@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **stanleyewenike@icloud.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/stanley-e-a0542b40/](https://www.linkedin.com/in/stanley-ewenike-ph-d-a0542b40/)]
+- 📄 Know about my experiences [https://www.linkedin.com/in/stanley-e-a0542b40/](https://www.linkedin.com/in/stanley-ewenike-ph-d-a0542b40/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
