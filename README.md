@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif)
 <h1 align="center">Hi 👋, I'm Stan!</h1>
-<h3 align="center">Data Analytics | Data Science | Data Quality | Cloud | Research | -> Super excited about all things data!!</h3>
+<h3 align="center"> Data Analytics | Data Science | Data Quality | AI | Cloud | -> Super excited about all things data!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleyewenike&label=Profile%20views&color=0e75b6&style=flat" alt="stanleyewenike" /> </p>
