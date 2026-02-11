@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleyewenike&label=Profile%20views&color=0e75b6&style=flat" alt="stanleyewenike" /> </p>
 
-- 🔭 I’m currently working on [Some personal projects]
+- 🔭 I’m currently working on some GenAI projects in the areas of Adult care, employability/employment 
 
-- 🌱 I’m currently learning **Data Science, AI, Cloud Services, Blockchain**
+- 🌱 I’m currently learning **Data Science, AI, Cloud-native Data Engineering(Snowflake)**
 
-- 👯 I’m looking to collaborate on [Data Analytics,Data Science, AI and Cloud projects]
+- 👯 I’m looking to collaborate on Data Analytics, Data Science, AI and Cloud projects
 
 <!--- - 👨‍💻 All of my projects are available at (Coming soon!) --->
 
