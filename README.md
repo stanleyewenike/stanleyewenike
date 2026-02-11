@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleyewenike&label=Profile%20views&color=0e75b6&style=flat" alt="stanleyewenike" /> </p>
 
-- 🔭 I’m currently working on some GenAI projects in the areas of Adult care, employability/employment 
+- 🔭 I’m currently working on some GenAI projects in Adult care, Agent-based workflow optimization
 
 - 🌱 I’m currently learning **Data Science, AI, Cloud-native Data Engineering(Snowflake)**
 
