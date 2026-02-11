@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Data Science, AI, Cloud Services, Blockchain**
 
-- 👯 I’m looking to collaborate on [Analytics, AI and Blockchain projects]
+- 👯 I’m looking to collaborate on [Data Analytics,Data Science, AI and Cloud projects]
 
 <!--- - 👨‍💻 All of my projects are available at (Coming soon!) --->
 
 <!--- - 📝 I regularly write articles on (Coming soon!) --->
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **stanleyewenike@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/stanley-e-a0542b40/](https://www.linkedin.com/in/stanley-e-a0542b40/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/stanley-e-a0542b40/](https://www.linkedin.com/in/stanley-ewenike-ph-d-a0542b40/)]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
