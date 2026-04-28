@@ -19,7 +19,7 @@
 
 - 📫 Want to reach me? drop me an email - **stanleyewenike@icloud.com**
 
-- 📄 Want to know more about my experiences? Check out my [**LinkedIn Profile**](www.linkedin.com/in/stan-ewenike)
+- 📄 Want to know more about my experiences? Check out my [Linkedin profile](https://www.linkedin.com/in/stan-ewenike)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
