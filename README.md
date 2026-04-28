@@ -28,9 +28,9 @@
 <h3 align="left">Connect with me:</h3>
 <table>
 	<tr>
-		<th><a href="https://www.linkedin.com/in/stan-ewenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stan-ewenike" height="30" width="40" /></a></th>
-		<th><a href="https://www.kaggle.com/stanleybh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/stanleybh" height="30" width="40" /></a></th>
-  		<th><a href="https://medium.com/@stanleyewenike" target="blank"><img align="center" src="https://github.com/stanleyewenike/images_logos_icons/blob/main/icons/Medium/Medium-Icon-Black.png" alt="https://medium.com/@stanleyewenike" height="30" width="40" /></a></th>
+		<th><a href="https://www.linkedin.com/in/stan-ewenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a></th>
+		<th><a href="https://www.kaggle.com/stanleybh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="My Kaggle Profile" height="30" width="40" /></a></th>
+  		<th><a href="https://medium.com/@stanleyewenike" target="blank"><img align="center" src="https://github.com/stanleyewenike/images_logos_icons/blob/main/icons/Medium/Medium-Icon-Black.png" alt="My Medium Profile" height="30" width="40" /></a></th>
  	</tr>
 </table>
 
@@ -61,6 +61,8 @@
 		<th><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </th>
 		<th><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a></th>
 		<th><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></th>
+		<th><a href="https://github.com/"> <img src="https://github.com/stanleyewenike/images_logos_icons/blob/main/icons/GitHub/GitHub_Invertocat_Black.svg" alt="GitHub" width="40" height="40"/> </a></th>
+		
  	</tr>
 </table>
 
