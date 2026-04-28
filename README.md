@@ -62,7 +62,6 @@
 		<th><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a></th>
 		<th><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></th>
 		<th><a href="https://github.com/"> <img src="https://github.com/stanleyewenike/images_logos_icons/blob/main/icons/GitHub/GitHub_Invertocat_Black.svg" alt="GitHub" width="40" height="40"/> </a></th>
-		
  	</tr>
 </table>
 
