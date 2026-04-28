@@ -27,17 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@stan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@stan-the-scripter" height="30" width="40" /></a>
-<a href="https://dev.to/@stanleyewenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@stanleyewenike" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stanley-e-a0542b40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stanley-e-a0542b40/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sec_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sec_code" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/stan-ewenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stan-ewenike" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/stanleybh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/stanleybh" height="30" width="40" /></a>
-<a href="https://dribbble.com/sec_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sec_code" height="30" width="40" /></a>
-<a href="https://medium.com/@stanleyewenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stanleyewenike" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sec_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sec_code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@stanleyewenike1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@stanleyewenike1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sec_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sec_code" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sec_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sec_code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
